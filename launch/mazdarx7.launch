@@ -3,7 +3,7 @@
   <!-- ~~~~~~~~~~~~~~~~~~~~~~~~ -->
   <!-- Controller Launches. profproject control and CBF -->
   <node pkg="mazdarx7" type="ready_controller" name="ready_controller_node" output="screen">
-		<remap from="/egocar/cmd_accel" to="/cmd_accel_pre"/>
+		<remap from="/cmd_accel" to="/cmd_accel_pre"/>
 	</node>
 <!-- CBF params -->
   <arg name="description" default="ready_controller2"/>
