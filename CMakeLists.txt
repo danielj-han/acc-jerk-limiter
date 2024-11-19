@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.9)
-project(ready_controller)
+project(mazdarx7)
 set(CMAKE_VERBOSE_MAKEFILE ON)
 # Set CMAKE_BUILD_TYPE
 set(CMAKE_BUILD_TYPE Release)
