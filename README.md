@@ -1,4 +1,4 @@
-# ready_controller1
+# MazdaRX7
 # The car-following controller we developed is designed to minimize sudden changes in acceleration, effectively reducing the jerk value to enhance ride comfort and stability.
 
 # Running Docker with your Generated Code
